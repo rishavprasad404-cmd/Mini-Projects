@@ -28,6 +28,10 @@ This repository contains small Python mini-projects built for learning and pract
 ### 📸 Output Screenshots
 Put your images in `output/` folder and they will show here:
  ### 1. Student Marks Calculator
+ https://github.com/rishavprasad404-cmd/Day---7---Mini-Projects/blob/8703c42f2dbf55deb8525db97f9761c33ee4ef65/Screenshot%20(1).png
+
+ ### 2. Personal Profile Generator
+ 
 ### ⚙️ How to Run
 ```bash
 python "1. Student Marks Calculator.py"
