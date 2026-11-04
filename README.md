@@ -28,10 +28,16 @@ This repository contains small Python mini-projects built for learning and pract
 ### 📸 Output Screenshots
 Put your images in `output/` folder and they will show here:
  ### 1. Student Marks Calculator
- https://github.com/rishavprasad404-cmd/Day---7---Mini-Projects/blob/8703c42f2dbf55deb8525db97f9761c33ee4ef65/Screenshot%20(1).png
+https://github.com/rishavprasad404-cmd/Mini-Projects/blob/04f16d96dccfe0468eeff0eb359831bcef0d5bb3/Screenshot%20(1).png
 
  ### 2. Personal Profile Generator
- https://github.com/rishavprasad404-cmd/Day---7---Mini-Projects/blob/db27f9e632c98a5890ed73913cf035414986ad30/Screenshot%20(2).png
+ https://github.com/rishavprasad404-cmd/Mini-Projects/blob/04f16d96dccfe0468eeff0eb359831bcef0d5bb3/Screenshot%20(2).png
+
+ ### 3. ATM System
+ https://github.com/rishavprasad404-cmd/Mini-Projects/blob/04f16d96dccfe0468eeff0eb359831bcef0d5bb3/Screenshot%20(3).png
+
+ # 4. Multiplication Table
+ https://github.com/rishavprasad404-cmd/Mini-Projects/blob/04f16d96dccfe0468eeff0eb359831bcef0d5bb3/Screenshot%20(4).png
 ### ⚙️ How to Run
 ```bash
 python "1. Student Marks Calculator.py"
