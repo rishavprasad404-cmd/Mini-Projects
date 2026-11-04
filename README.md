@@ -28,7 +28,6 @@ This repository contains small Python mini-projects built for learning and pract
 ### 📸 Output Screenshots
 Put your images in `output/` folder and they will show here:
  ### 1. Student Marks Calculator
-Screenshot (1).png
 ### ⚙️ How to Run
 ```bash
 python "1. Student Marks Calculator.py"
