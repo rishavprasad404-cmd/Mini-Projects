@@ -31,7 +31,7 @@ Put your images in `output/` folder and they will show here:
  https://github.com/rishavprasad404-cmd/Day---7---Mini-Projects/blob/8703c42f2dbf55deb8525db97f9761c33ee4ef65/Screenshot%20(1).png
 
  ### 2. Personal Profile Generator
- 
+ https://github.com/rishavprasad404-cmd/Day---7---Mini-Projects/blob/db27f9e632c98a5890ed73913cf035414986ad30/Screenshot%20(2).png
 ### ⚙️ How to Run
 ```bash
 python "1. Student Marks Calculator.py"
