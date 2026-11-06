@@ -41,6 +41,8 @@ https://github.com/rishavprasad404-cmd/Mini-Projects/blob/04f16d96dccfe0468eeff0
  https://github.com/rishavprasad404-cmd/Mini-Projects/blob/04f16d96dccfe0468eeff0eb359831bcef0d5bb3/Screenshot%20(4).png
 
  # 5. Smart Shopping Cart System
+ https://github.com/rishavprasad404-cmd/Mini-Projects/blob/faab0884b44664742f01e80a5f00eee023ed6163/Screenshot%20(5).png
+ 
 ### ⚙️ How to Run
 ```bash
 python "1. Student Marks Calculator.py"
