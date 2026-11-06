@@ -1,4 +1,4 @@
-print("============ Smart Shooping Cart System ============================")
+print("============ Smart Shopping Cart System ============================")
 cart = ["Milk", "Bread", "Eggs", "Butter", "Chesse"]
 cart.append("Rice")
 print("Rice Added = ",cart)
