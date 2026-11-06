@@ -24,7 +24,7 @@ This repository contains small Python mini-projects built for learning and pract
 | Day 7 | Personal Profile Generator | Generate a formatted personal profile | ✅ |
 | Day 14 | ATM System | Simple ATM with balance check, deposit, withdraw | ✅ |
 | Day 14 | Multiplication Table | Generate multiplication table for any number | ✅ |
-| Day 24 | Smart Shopping Cart System |
+| Day 24 | Smart Shopping Cart System | Manage Shopping Cart using List - add, insert, remove, count slicing sort & copy | ✅ |
 
 ### 📸 Output Screenshots
 Put your images in `output/` folder and they will show here:
