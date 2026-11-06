@@ -46,8 +46,6 @@ https://github.com/rishavprasad404-cmd/Mini-Projects/blob/04f16d96dccfe0468eeff0
 ### ⚙️ How to Run
 ```bash
 python "1. Student Marks Calculator.py"
-https://github.com/rishavprasad404-cmd/Mini-Projects/blob/04e10d5ac02055a8ab1ccf411cb9dd60456f374c/1.%20Student%20Marks%20Calculator%20.py
-
 python "2. Personal Profile Generator .py"
 python "3. ATM System .py"
 python "4. Multiplication Table .py"
