@@ -24,6 +24,7 @@ This repository contains small Python mini-projects built for learning and pract
 | Day 7 | Personal Profile Generator | Generate a formatted personal profile | ✅ |
 | Day 14 | ATM System | Simple ATM with balance check, deposit, withdraw | ✅ |
 | Day 14 | Multiplication Table | Generate multiplication table for any number | ✅ |
+| Day 24 | Smart Shopping Cart System |
 
 ### 📸 Output Screenshots
 Put your images in `output/` folder and they will show here:
@@ -38,9 +39,12 @@ https://github.com/rishavprasad404-cmd/Mini-Projects/blob/04f16d96dccfe0468eeff0
 
  # 4. Multiplication Table
  https://github.com/rishavprasad404-cmd/Mini-Projects/blob/04f16d96dccfe0468eeff0eb359831bcef0d5bb3/Screenshot%20(4).png
+
+ # 5. Smart Shopping Cart System
 ### ⚙️ How to Run
 ```bash
 python "1. Student Marks Calculator.py"
 python "2. Personal Profile Generator .py"
 python "3. ATM System .py"
 python "4. Multiplication Table .py"
+python "5. Smart Shopping Cart System
