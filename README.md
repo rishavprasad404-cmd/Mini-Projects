@@ -24,7 +24,8 @@ This repository contains small Python mini-projects built for learning and pract
 | Day 7 | Personal Profile Generator | Generate a formatted personal profile | ✅ |
 | Day 14 | ATM System | Simple ATM with balance check, deposit, withdraw | ✅ |
 | Day 14 | Multiplication Table | Generate multiplication table for any number | ✅ |
-| Day 24 | Smart Shopping Cart System | Manage Shopping Cart using List - add, insert, remove, count slicing sort & copy | ✅ |
+| Day 24 | Smart Shopping Cart System | Manage Shopping Cart using List | Add, Insert, Remove, Count Slicing Sort & Copy | ✅ |
+| Day 24 | Student Result System using Nested Lists |
 
 ### 📸 Output Screenshots
 Put your images in `output/` folder and they will show here:
@@ -42,7 +43,9 @@ https://github.com/rishavprasad404-cmd/Mini-Projects/blob/04f16d96dccfe0468eeff0
 
  # 5. Smart Shopping Cart System
  https://github.com/rishavprasad404-cmd/Mini-Projects/blob/faab0884b44664742f01e80a5f00eee023ed6163/Screenshot%20(5).png
- 
+
+ # 6. Student Result System using Nested Lists
+ https://github.com/rishavprasad404-cmd/Mini-Projects/blob/9753629b5ed1d6b43f0e325a6ff84fe9918b59f5/Screenshot%20(6).png
 ### ⚙️ How to Run
 ```bash
 python "1. Student Marks Calculator.py"
@@ -50,3 +53,4 @@ python "2. Personal Profile Generator .py"
 python "3. ATM System .py"
 python "4. Multiplication Table .py"
 python "5. Smart Shopping Cart System .py"
+python "6. Student Result System using Nested Lists .py"
