@@ -25,7 +25,9 @@ This repository contains small Python mini-projects built for learning and pract
 | Day 14 | ATM System | Simple ATM with balance check, deposit, withdraw | ✅ |
 | Day 14 | Multiplication Table | Generate multiplication table for any number | ✅ |
 | Day 24 | Smart Shopping Cart System | Manage Shopping Cart using List - Add, Insert, Remove, Count Slicing Sort & Copy | ✅ |
-| Day 24 | Student Result System using Nested Lists |
+| Day 24 | Student Result System using Nested Lists | Store the Marks in a Nested List print matrix, find student & subject marks, find highest marks | ✅ |
+| Day 28 | A Delivery Application to store coordinates using Tuple | Store the coordinates in  a Tuple, Use Tuple Unpacking to store these coordinates  into two separate variable and print its output | ✅ |
+
 
 ### 📸 Output Screenshots
 Put your images in `output/` folder and they will show here:
@@ -46,6 +48,11 @@ https://github.com/rishavprasad404-cmd/Mini-Projects/blob/04f16d96dccfe0468eeff0
 
  # 6. Student Result System using Nested Lists
  https://github.com/rishavprasad404-cmd/Mini-Projects/blob/9753629b5ed1d6b43f0e325a6ff84fe9918b59f5/Screenshot%20(6).png
+ 
+ # 7. A Delivery Application to store the coordinates using Tuples
+ https://github.com/rishavprasad404-cmd/Mini-Projects/blob/412070b219f44579b6686a209d572359a708fcab/Screenshot%20(7).png
+
+ 
 ### ⚙️ How to Run
 ```bash
 python "1. Student Marks Calculator.py"
@@ -54,3 +61,4 @@ python "3. ATM System .py"
 python "4. Multiplication Table .py"
 python "5. Smart Shopping Cart System .py"
 python "6. Student Result System using Nested Lists .py"
+python. "7. A Delivery Application to store the coordinates using Tuples .py"
